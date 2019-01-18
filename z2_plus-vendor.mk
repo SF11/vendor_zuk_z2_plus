@@ -839,9 +839,10 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     libthermalclient \
     QtiTelephonyService \
-    ims \
     uceShimService \
     CNEService \
+    dpmserviceapp \
+    ims \
     WfdService \
     qcrilmsgtunnel \
     TimeService \
@@ -853,5 +854,4 @@ PRODUCT_PACKAGES += \
     qti-telephony-common \
     ReferenceFeature \
     libantradio \
-    com.qualcomm.location \
-    dpmserviceapp
+    com.qualcomm.location 
